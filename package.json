@@ -1,7 +1,7 @@
 {
-  "name": "react-render-watch",
-  "version": "1.0.1",
-  "description": "Lightweight dev tool to detect React component re-renders and function calls",
+  "name": "react-render-watch-widget",
+  "version": "1.0.0",
+  "description": "Lightweight draggable render debugging widget for React",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",

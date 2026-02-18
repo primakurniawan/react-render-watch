@@ -1,4 +1,4 @@
-# react-render-watch
+# react-render-watch-widget
 
 Lightweight render debugging widget for React.
 
@@ -8,13 +8,13 @@ Track component renders and function calls visually during development.
 
 ## Install
 
-npm install react-render-watch
+npm install react-render-watch-widget
 
 ## Usage
 
 ```tsx
 import { useState } from "react"
-import { useRenderWatch, mountDevtools } from "react-render-watch"
+import { useRenderWatch, mountDevtools } from "react-render-watch-widget"
 
 mountDevtools()
 
