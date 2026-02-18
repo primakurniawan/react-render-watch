@@ -4,6 +4,8 @@ Lightweight render debugging widget for React.
 
 Track component renders and function calls visually during development.
 
+![Recording 2026-02-18 065116](https://github.com/user-attachments/assets/e517f8f1-5e90-4fea-9eec-aabe57b58ea3)
+
 ## Install
 
 npm install react-render-watch
