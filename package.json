@@ -1,6 +1,6 @@
 {
   "name": "react-render-watch",
-  "version": "0.0.3",
+  "version": "1.0.1",
   "description": "Lightweight dev tool to detect React component re-renders and function calls",
   "type": "module",
   "main": "./dist/index.js",
